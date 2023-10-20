@@ -1,0 +1,44 @@
+.section{
+  display: flex;
+  flex-direction: column;
+}
+._title{
+  display: flex;
+  margin-bottom: 20px;
+}
+._part1, ._part3{
+  content: '';
+  display: none;
+
+}
+._part2{
+  background-color: #DADFF7;
+}
+._h1{
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 2em;
+}
+ @media (min-width : 1024px) {
+    .section{
+      flex-direction: row;
+    }
+    ._part2{
+      display: flex;
+      justify-content: center ;
+      
+    }
+    ._part1, ._part3{
+      display: block;
+      
+    }
+    ._part1{
+      background: linear-gradient(-90deg, #DADFF7, #fff);
+    }
+    ._part3{
+      background: linear-gradient(90deg, #DADFF7, #fff);
+    }
+    .h1{
+      font-size: 3em;
+    }
+ }

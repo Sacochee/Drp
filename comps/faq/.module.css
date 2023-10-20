@@ -1,0 +1,27 @@
+/*#0A8800*/
+
+.all{
+    margin-top: 20px;
+}
+._ul{
+    list-style-type: none;
+    margin-left: 10px;
+}
+.h2{
+    padding: 15px 5px;
+    color: #505050;
+}
+._li{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.h3{
+    color: #5b5b5b;
+}
+.ul{
+    margin-left: 5px;
+    list-style: none;
+}
+.li{
+    color: #717171;
+}

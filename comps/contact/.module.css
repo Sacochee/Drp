@@ -1,0 +1,96 @@
+.back{
+    margin: 20px;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    font-style: normal;
+    font-family: Roboto;
+    margin-bottom: 10px;
+}
+.int{
+    width: 200px;
+}
+
+.all{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.input, .int, .textArea{
+    border: none;
+    background-color: #f8f8f8;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.all_merci{
+    position: fixed;
+    top: 150px;
+    left: 0;
+    margin-left: 10px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    padding-top: 5px;
+    width: 300px;
+}
+.merci{
+    color: gray;
+}
+.close{
+    width: 10px;
+    height: auto;
+}
+.err{
+    color: red;
+}
+.mailImg{
+    width: 30px;
+    height: auto;
+}
+.cont_mail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.container{
+    background-color: black;
+    padding: 50px 0;
+}
+.mail{
+    color: white;
+    font-size: .8em;
+    margin-left: 10px;
+}
+.btn{
+    border: none;
+    background-color: #f8f8f8;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+.uu{
+    margin-top: 10px;
+    background-color: #fff;
+}
+.btnCenter{
+    display: flex;
+    justify-content: center;
+}
+.ou{
+    margin: 30px 0;
+}
+@media (min-width: 1024px){
+    .back{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .all_merci{
+        left: 300px;
+        border: solid #f8f8f8;
+    }
+}

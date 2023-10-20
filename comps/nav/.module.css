@@ -1,0 +1,40 @@
+.item{
+    padding: 5px 25px;
+    margin: 5px 5px;
+    color: black;
+    font-family: Roboto;
+    font-style: bold;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #DADFF7;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+.img{
+    margin: 10px 20px;
+    width:  100px;
+    height: auto;
+}
+
+@media (min-width:1024px){
+    .div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .cont{
+        flex-direction: row;
+        justify-content: space-between;
+        padding-right: 5%;
+        border-bottom: none;
+    }
+    .item:hover{
+        color: #DADFF7;
+        background-color: black;
+        border-radius: 10px;
+    }
+}

@@ -1,0 +1,33 @@
+.bar{
+    text-decoration: line-through;
+    color: gray;
+    font-size: 12px;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.prix{
+    margin-right: 10px;
+    font-size: 1.3em;
+    font-family: Roboto;
+    color: black;
+}
+.star{
+    width: 50px;
+    height: auto;
+    margin-right: 5px;
+}.all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 30px;
+}
+.rate:hover{
+    cursor: pointer;
+}
+.rate{
+    display: flex;
+    align-items: center;
+}

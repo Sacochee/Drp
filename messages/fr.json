@@ -1,0 +1,90 @@
+{
+    "Main": {
+        "home": "maison",
+        "title1" : "Les Nouvelles Gourdes 2 Sport",
+        "subTitle" : "Restez Hydraté Et Motivé Avec Cette Bouteille D'eau Motivante Aux Couleurs Dégradées - Marqueur De Temps, Étanche, Sans BPA Et Autocollants Mignons Inclus !",
+        "color1": "vert",
+        "color2": "rose",
+        "color3": "violet",
+        "color4": "bleu",
+        "buy" : "Acheter"
+    },
+    "Nav":{
+        "prod" : "Produit",
+        "about": "apropos",
+        "cont" : "contact"
+    },
+    "avis":{
+        "btn": "Signaler",
+        "report": "Merci de votre signalement, la demande va etre traitée   ",
+        "add" : "Ajoutez un commentaire"
+    },
+    "desc":{
+        "liv": "Livraison",
+        "stand" : "Standard : gratuit ",
+        "time" : "Livraison sous 11 jours.",
+        "obt" : "Obtenez un remboursement de 5€ en cas de retard.",
+        "transport" : "Transporteur :",
+        "time2" : "Livraison sous 14 jours.",
+        "stand2" : "Click & Collect : gratuit ",
+        "stand3" : "Express : 5,90€",
+        "time3" : "Livraison sous 6 jours",
+        "h2" : "Gourde de Sport en Plastique Résistant : Votre Partenaire d'Entraînement Incontournable",
+        "p" : "La gourde de sport en plastique est conçue pour accompagner les sportifs dans leurs aventures actives, offrant une solution fiable et pratique pour rester hydraté(e) tout au long de l'effort. Fabriquée à partir de plastique de haute qualité, cette gourde allie durabilité et légèreté, en faisant le compagnon idéal pour vos séances d'entraînement, vos randonnées ou vos escapades en plein air.",
+        "str" : "Caractéristiques Clés :",
+        "t1":"Matériau Résistant",
+        "li1" : " : Fabriquée à partir d'un plastique de qualité supérieure, cette gourde est conçue pour résister aux chocs, aux chutes et aux rigueurs de l'usage quotidien. Elle est également exempte de BPA, garantissant une expérience de consommation saine.",
+        "t2" : "Design Ergonomique ",
+        "li2":" : La forme ergonomique de la gourde offre une prise en main confortable, assurant une manipulation aisée même en mouvement. Son goulot large permet un remplissage et un nettoyage rapides.",
+        "t3": "Capacité Optimale ",
+        "li3" : ": Disponible en différentes capacités pour répondre à vos besoins spécifiques, cette gourde offre un volume généreux tout en restant facile à transporter. Choisissez entre les options de 500 ml, 750 ml ou 1 litre selon votre niveau d'activité et vos préférences personnelles.",
+        "t4" : "Système Anti-Fuite ",
+        "li4" : ": Grâce à son bouchon étanche, cette gourde garantit que votre hydratation reste à l'intérieur de la bouteille, évitant tout risque de fuites gênantes pendant votre entraînement.",
+        "t5" : "Polyvalence ",
+        "li5" : ": Que ce soit pour de la course à pied, du cyclisme, de la musculation ou simplement pour rester hydraté(e) au quotidien, cette gourde est votre alliée de confiance. Son design épuré la rend également adaptée à tout type d'activité.",
+        "t6" : "Options de Couleurs Éclatantes ",
+        "li6" : " : Disponible dans une gamme de couleurs vives et attrayantes, cette gourde vous permet d'exprimer votre style tout en restant fonctionnelle.",
+        "less" : "cacher",
+        "more" : "Lire plus"
+    },
+    "footer" : {
+        
+    },
+    "contact": {
+        "contact" : "Contactez Nous",
+        "prenom": "Prenom",
+        "nom" : "Nom", 
+        "vpre" : "Votre Prenom",
+        "vnom" : "Votre Nom",
+        "email" : "Email",  
+        "message" : "Message",
+        "vmess": "Message destiné a l'équipe",
+        "send" : "Envoyer",
+        "err" : "Erreur lors de la saisie du formulaire.",
+        "pop" : "Merci, l'envoi du formulaire a bien été exécuté."
+    },
+    "faq": {
+        "question" : "Les 10 questions sur notre gourde de sport",
+        "q1" : "Quelle est la durée de vie typique de la gourde?",
+        "r1" : "Avec un entretien approprié, notre gourde peut durer plusieurs années. Cependant, veillez à vérifier régulièrement l'état de la gourde et à la remplacer si vous remarquez des signes de détérioration.",
+        "q2" : "Est-ce que la gourde est étanche?",
+        "r2" : "Oui, notre gourde est munie d'un système d'étanchéité fiable qui permet de prévenir les fuites lorsqu'elle est correctement fermée.",
+        "q3" : "Comment puis-je nettoyer ma gourde de sport?",
+        "r3" : "Nous recommandons de laver la gourde à la main avec de l'eau chaude savonneuse. Elle peut également être placée dans le panier supérieur du lave-vaisselle.",
+        "q4" : "Est-ce que le bouchon est amovible pour un nettoyage facile?",
+        "r4" : "Oui, le bouchon est conçu pour être dévissable, ce qui facilite le nettoyage en profondeur de la gourde.",
+        "q5" : "Quelle est la capacité de la gourde?" , 
+        "r5" : "Notre gourde de sport a une capacité de 750 ml, idéale pour vous hydrater pendant vos activités sportives.",
+        "q6" : "Est-ce que la gourde est adaptée pour les enfants?",
+        "r6" : "Oui, notre gourde est adaptée aux enfants et est munie d'un bouchon à l'épreuve des fuites pour éviter tout renversement accidentel.",
+        "q7" : "La gourde est-elle résistante aux chocs?",
+        "r7" : "Notre gourde est conçue pour être robuste, mais il est recommandé d'éviter les chutes excessives ou les impacts violents pour prolonger sa durée de vie.",
+        "q8" : "La gourde est-elle adaptée pour les boissons énergisantes ou les boissons protéinées?",
+        "r8" : "Oui, notre gourde est adaptée pour une variété de boissons, y compris les boissons énergisantes et protéinées. Assurez-vous de bien la nettoyer après chaque utilisation.",
+        "q9" : "Peut-on mettre la gourde au congélateur?",
+        "r9" : "Oui, notre gourde est compatible avec le congélateur. Cependant, assurez-vous de ne pas la remplir complètement pour laisser de l'espace à l'expansion de la glace.",
+        "q10" : "La gourde est-elle compatible avec les porte-gobelets de vélo?",
+        "r10" : "Oui, la plupart de nos gourdes sont conçues pour s'adapter aux porte-gobelets de vélo standard."
+    }
+
+}

@@ -1,0 +1,10 @@
+{
+    "Main": {
+        "home": "Home"
+    },
+    "Nav":{
+        "prod" : "Produit",
+        "about": "apropos",
+        "cont" : "contact"
+    }
+}

@@ -1,0 +1,10 @@
+.ul{
+    display: flex;
+}
+.li{
+    list-style: none;
+}
+.img{
+    width: 10px;
+    height: auto;
+}
