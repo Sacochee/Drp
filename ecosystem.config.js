@@ -1,8 +1,8 @@
 module.exports = {
   apps: [
     {
-      name: "your_app",
-      script: "your_app.js",
+      name: "app",
+      script: "npm run start",
       env: {
         PORT: 3000,
       },
