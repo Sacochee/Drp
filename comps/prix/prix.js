@@ -2,7 +2,7 @@ import s from './prix.module.css'
 import Image from 'next/image'
 import star from"@/public/star.png"
 import { useState } from 'react'
-import data from '@/com/com'
+
 
 export default  function Prix() {
 
