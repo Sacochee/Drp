@@ -1,7 +1,7 @@
 import {v4 as uuidv4} from "uuid"
 import Image from "next/image"
 import s from "./.module.css"
-import star from "@/public/stars/Star.png"; import starHalf from "@/public/stars/StarHalf.png"; import starEmpty from "@/public/stars/starEmpty.png"
+import star from "@/public/stars/Star.png"; import starHalf from "@/public/stars/StarHalf.png"; import starEmpty from "@/public/stars/StarEmpty.png"
 
 export default function Rating({rate}) {
     const imgs = []
